@@ -1,0 +1,3 @@
+
+membuat database
+menampilkan data nya
